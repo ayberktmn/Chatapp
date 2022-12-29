@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331704970923",
+    "project_id": "chatapp-3e1b7",
+    "storage_bucket": "chatapp-3e1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331704970923:android:bfc427f88cb02569c5d1ee",
+        "android_client_info": {
+          "package_name": "com.afsar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331704970923-2cns416a1q29mtlo8gobiejm79e0tqmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0AOaoHXAPrj62wYp8Wp0pFliOWErovc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331704970923-2cns416a1q29mtlo8gobiejm79e0tqmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
